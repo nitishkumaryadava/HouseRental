@@ -1,1 +1,1 @@
-# HouseRental
+# house-rental-system
